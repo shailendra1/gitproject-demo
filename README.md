@@ -1,2 +1,2 @@
 # gitproject-demo
-my git repo
+my git repo for project
